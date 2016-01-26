@@ -3,7 +3,6 @@ package comparator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.List;
 
 /**
  * Created by yubraj pokharel on 1/26/2016.

@@ -7,7 +7,7 @@ import java.util.function.Function;
  */
 public class LambdaFuncRef2 {
 
-    Function<Employee, String> empName = e->e.getName();
+    Function<Employee> empName = e->e.setName("tara");
     Function<Employee, String> empName2 = e->e.getName();
 
     public void evaluater(){
