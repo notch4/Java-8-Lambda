@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b5b04d-2e66-486c-b8dc-b32992696d10" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/excercise_1/Employee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/excercise_1/LambdaFuncRef2.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person$1.class" afterPath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person.class" afterPath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -773,7 +771,7 @@
       <updated>1453837283990</updated>
       <workItem from="1453837286790" duration="5949000" />
       <workItem from="1453914574545" duration="63000" />
-      <workItem from="1453915363672" duration="4755000" />
+      <workItem from="1453915363672" duration="4765000" />
     </task>
     <task id="LOCAL-00001" summary="adding new files">
       <created>1453917699408</created>
@@ -793,11 +791,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453997664505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update&#10;">
+      <created>1453997726997</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1453997726997</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10767000" />
+    <option name="totallyTimeSpent" value="10777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
