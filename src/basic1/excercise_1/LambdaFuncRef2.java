@@ -1,5 +1,6 @@
 package basic1.excercise_1;
 
+import java.util.function.Consumer;
 import java.util.function.Function;
 
 /**
@@ -7,10 +8,14 @@ import java.util.function.Function;
  */
 public class LambdaFuncRef2 {
 
-    Function<Employee> empName = e->e.setName("tara");
-    Function<Employee, String> empName2 = e->e.getName();
+    Function<Employee, String> empName = e->e.getName();
+    Function<Employee, String> empName2 = Employee :: getName;
+
+    //setters
+
 
     public void evaluater(){
+        System.out.println("For getter");
         System.out.println(empName.apply(new Employee("yubraj")));
         System.out.println(empName2.apply(new Employee("Sudhan")));
     }
