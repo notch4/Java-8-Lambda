@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03b5b04d-2e66-486c-b8dc-b32992696d10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person$1.class" afterPath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person.class" afterPath="$PROJECT_DIR$/out/production/LambdaExpression/comparator/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="03b5b04d-2e66-486c-b8dc-b32992696d10" name="Default" comment="" />
     <ignored path="LambdaExpression.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/stream_API/Random_String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,8 +38,8 @@
       <file leaf-file-name="LambdaFuncRef2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/basic1/excercise_1/LambdaFuncRef2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31070495">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5561358">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -73,8 +69,8 @@
         <option value="$PROJECT_DIR$/src/comparator/excercise_1/Employee.java" />
         <option value="$PROJECT_DIR$/src/comparator/excercise_1/LambdaFuncRef2.java" />
         <option value="$PROJECT_DIR$/src/stream_API/Stream_1.java" />
-        <option value="$PROJECT_DIR$/src/basic1/excercise_1/LambdaFuncRef2.java" />
         <option value="$PROJECT_DIR$/src/stream_API/Random_String.java" />
+        <option value="$PROJECT_DIR$/src/basic1/excercise_1/LambdaFuncRef2.java" />
       </list>
     </option>
   </component>
@@ -198,7 +194,7 @@
       <recent name="C:\Users\984886\activator\LambdaExpression\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Random_String">
+  <component name="RunManager" selected="Application.LambdaFuncRef2">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -742,8 +738,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Random_String" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LambdaFuncRef2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LambdaFuncRef2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Random_String" />
         <item index="2" class="java.lang.String" itemvalue="Application.Person" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
       </list>
@@ -771,7 +767,7 @@
       <updated>1453837283990</updated>
       <workItem from="1453837286790" duration="5949000" />
       <workItem from="1453914574545" duration="63000" />
-      <workItem from="1453915363672" duration="4765000" />
+      <workItem from="1453915363672" duration="5815000" />
     </task>
     <task id="LOCAL-00001" summary="adding new files">
       <created>1453917699408</created>
@@ -797,15 +793,27 @@
       <option name="project" value="LOCAL" />
       <updated>1453997726997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update&#10;">
+      <created>1453999476088</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1453999476088</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update&#10;">
+      <created>1453999486945</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1453999486945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10777000" />
+    <option name="totallyTimeSpent" value="11827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -817,7 +825,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16868381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16868381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -983,7 +991,7 @@
     <entry file="file://$PROJECT_DIR$/src/stream_API/Random_String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -992,8 +1000,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basic1/excercise_1/LambdaFuncRef2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31070495">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5561358">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
       </provider>
