@@ -44,4 +44,18 @@ public class Library {
                     .map(e -> e.getFname() +" "+e.getLname() + "["+e.getAge()+"]")
                     .collect(Collectors.joining(" , "));
 
+
+    public static final Function<List<Employee>, String> sort_according_to_fname_then_age_in_decending =
+            (list) -> list.stream()
+                    .sorted(
+                            (o1, o2) -> {
+                                if(o1.getFname().compareToIgnoreCase(o2.getFname()) == 0){
+                                    return o1.getAge()<o2.getAge()?1:o1.getAge()>o2.getAge()?-1:0;
+                                }else
+                                    return o1.getFname().compareToIgnoreCase(o2.getFname());
+                            }
+                    )
+                    .map(e -> e.getFname() +" "+e.getLname() + "["+e.getAge()+"]")
+                    .collect(Collectors.joining(" , "));
+
 }

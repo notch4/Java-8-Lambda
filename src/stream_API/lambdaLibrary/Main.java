@@ -56,8 +56,25 @@ public class Main {
         //sort list according to first name
         System.out.println("\n\n[Problem 5] Sorted list: "+Library.sort_according_to_fname.apply(emp));
 
-        //problem first name then age
-        System.out.println("\n[Problem 6] Sorted list: "+Library.sort_according_to_fname_then_age.apply(emp));
+        //problem 6 first name then age
+        System.out.println("[Problem 6] Sorted list: "+Library.sort_according_to_fname_then_age.apply(emp));
+
+        //problem 7 first name then age but in desc order
+        System.out.println("[Problem 7] Sorted list: "+Library.sort_according_to_fname_then_age_in_decending.apply(emp));
+
+
+//          OutPut
+//        [Problem 1] Total Result: 0 matching results
+//        [Problem 2] List of results: Yubraj Pokharel , Christain bale , Brad Pitt , Brad Pitt , Jared Leto , Jared Leto
+//
+//        [Problem 3] Total number of Filtered Employee, Male: 6
+//        [Problem 3] Total number of Filtered Employee, Female: 1
+//
+//        [Problem 4] List of results: [Brad Pitt, Brad Pitt]
+//
+//        [Problem 5] Sorted list: Brad Pitt[52] , Brad Pitt[56] , Christain bale[42] , Jared Leto[48] , Jared Leto[46] , Jolie Queen[48] , Yubraj Pokharel[26]
+//        [Problem 6] Sorted list: Brad Pitt[52] , Brad Pitt[56] , Christain bale[42] , Jared Leto[46] , Jared Leto[48] , Jolie Queen[48] , Yubraj Pokharel[26]
+//        [Problem 7] Sorted list: Brad Pitt[56] , Brad Pitt[52] , Christain bale[42] , Jared Leto[48] , Jared Leto[46] , Jolie Queen[48] , Yubraj Pokharel[26]*/
 
     }
 }
