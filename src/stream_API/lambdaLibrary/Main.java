@@ -13,7 +13,9 @@ public class Main {
         emp.add(new Employee("Yubraj", "Pokharel", 26, "male"));
         emp.add(new Employee("Christain", "bale", 42, "male"));
         emp.add(new Employee("Brad", "Pitt", 52, "male"));
-        emp.add(new Employee("Jared", "Leto", 44, "male"));
+        emp.add(new Employee("Brad", "Pitt", 56, "male"));
+        emp.add(new Employee("Jared", "Leto", 48, "male"));
+        emp.add(new Employee("Jared", "Leto", 46, "male"));
         emp.add(new Employee("Jolie", "Queen", 48, "female"));
 
         //problem 1
@@ -49,6 +51,13 @@ public class Main {
         //problem 4
         //list the employee who are male and total length of first name letter count is4 and first letter of last name is greater the E
         System.out.printf("\n\n[Problem 4] List of results: " + Library.list_total_after_filter.apply(emp, 4, "male", 'D'));
+
+        //problem 5
+        //sort list according to first name
+        System.out.println("\n\n[Problem 5] Sorted list: "+Library.sort_according_to_fname.apply(emp));
+
+        //problem first name then age
+        System.out.println("\n[Problem 6] Sorted list: "+Library.sort_according_to_fname_then_age.apply(emp));
 
     }
 }

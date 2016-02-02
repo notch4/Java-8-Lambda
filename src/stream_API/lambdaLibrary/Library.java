@@ -1,7 +1,9 @@
 package stream_API.lambdaLibrary;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.StringJoiner;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
@@ -25,5 +27,21 @@ public class Library {
                         .map(x -> x.getFname()+" "+x.getLname())
                         .collect(Collectors.toList());
 
+
+    public static final Function<List<Employee>, String> sort_according_to_fname =
+            (list) -> list.stream()
+                        .sorted((x,y) ->
+                                x.getFname().compareTo(y.getFname())
+                        )
+                        .map(e -> e.getFname() +" "+e.getLname() + "["+e.getAge()+"]")
+                        .collect(Collectors.joining(" , "));
+
+    public static final Function<List<Employee>, String> sort_according_to_fname_then_age =
+            (list) -> list.stream()
+                    .sorted(
+                            Comparator.comparing(Employee::getFname).thenComparing(Employee::getAge)
+                    )
+                    .map(e -> e.getFname() +" "+e.getLname() + "["+e.getAge()+"]")
+                    .collect(Collectors.joining(" , "));
 
 }
