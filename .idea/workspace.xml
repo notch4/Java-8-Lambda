@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03b5b04d-2e66-486c-b8dc-b32992696d10" name="Default" comment="update">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="83219f34-6730-4f07-9c97-fca926111f28" name="Rejected commit: Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics_lambda/using_interfaces/Impl1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Generics_lambda/using_interfaces/Pair.java" />
-    </list>
+    <list default="true" id="03b5b04d-2e66-486c-b8dc-b32992696d10" name="Default" comment="update" />
+    <list id="83219f34-6730-4f07-9c97-fca926111f28" name="Rejected commit: Default" comment="update" />
     <ignored path="LambdaExpression.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,8 +40,8 @@
       <file leaf-file-name="Impl1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Generics_lambda/using_interfaces/Impl1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7101828">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7568493">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#390#391#0" expanded="true" />
                 <element signature="e#430#431#0" expanded="true" />
@@ -811,7 +806,7 @@
       <workItem from="1453837286790" duration="5949000" />
       <workItem from="1453914574545" duration="63000" />
       <workItem from="1453915363672" duration="8805000" />
-      <workItem from="1454358217205" duration="2072000" />
+      <workItem from="1454358217205" duration="2182000" />
     </task>
     <task id="LOCAL-00001" summary="adding new files">
       <created>1453917699408</created>
@@ -859,7 +854,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16889000" />
+    <option name="totallyTimeSpent" value="16999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -867,7 +862,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1121,8 +1116,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Generics_lambda/using_interfaces/Impl1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7101828">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7568493">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#390#391#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
